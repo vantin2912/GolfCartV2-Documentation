@@ -1,0 +1,5 @@
+- CAN Transceiver
+- Power Measure
+- SDCard store log data
+- ESP32 push log data to server
+- RTC Time module synchronize

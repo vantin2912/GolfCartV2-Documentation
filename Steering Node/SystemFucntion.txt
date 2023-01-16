@@ -1,0 +1,7 @@
+- CAN Transceiver
+- Power Measure
+- UART To RS485
+- 24V Power Bulkup
+- EZI Servo Control
+- Left, Right Limit
+- Led Alarm Signal
