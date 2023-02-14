@@ -1,0 +1,2 @@
+../fasthash/fasthash.c:35:10:fasthash64	312	static
+../fasthash/fasthash.c:68:10:fasthash32	40	static

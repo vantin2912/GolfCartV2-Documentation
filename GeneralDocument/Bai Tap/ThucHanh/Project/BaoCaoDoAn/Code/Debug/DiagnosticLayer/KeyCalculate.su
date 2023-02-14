@@ -1,0 +1,2 @@
+../DiagnosticLayer/KeyCalculate.c:80:14:xcrc32	32	static
+../DiagnosticLayer/KeyCalculate.c:91:10:Key_Calculate	16	static

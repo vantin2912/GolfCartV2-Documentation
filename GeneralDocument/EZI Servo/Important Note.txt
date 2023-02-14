@@ -1,0 +1,6 @@
+Ezi Servo Max 	Position Limit 300000
+			Velocity Limit 100000
+
+Recommend use	Velocity 50000
+SetPos >300.000 Velo 50.000
+SetPos < 300.000 Velo 100.000
